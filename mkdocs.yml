@@ -1,7 +1,6 @@
 site_name: Download Service
 nav:
   - Home: index.md
-  - About: about.md
 theme:
   name: material
   logo: assets/logo.png
